@@ -1,0 +1,23 @@
+flow diagram of the web Page 
+
+=>
+a browser is an interpreter which will show the give application
+
+basically we need ip 
+which will ipv4 and ipv6 depends on the requirement 
+
+browser will send the request to the server.
+ the browser will make a request for the page, and the request is like a package of data where url is one part and type of request in another part.
+
+ Headers are used as metadata
+
+[JavaScript code]
+    => [Parser]
+        => [AST]
+            => [Compiler]
+                => [Machine code]
+                    => [Runtime]
+
+//what is java ?
+
+
